@@ -11,7 +11,6 @@ author:
   name:                Blintdesign
   github:              Blintdesign
 
-accent_image:          https://cdn.jsdelivr.net/gh/NicoDora/nicodora.github.io/assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25,55,71)
 
@@ -54,9 +53,9 @@ hydejack:
 
   offline:
     enabled:           false
-    cache_version:     1
+    cache_version:     13
     precache_assets:
-      - https://cdn.jsdelivr.net/gh/NicoDora/nicodora.github.io/assets/img/swipe.svg
+      - /assets/img/swipe.svg
 
 optional_front_matter:
   remove_originals:    true
