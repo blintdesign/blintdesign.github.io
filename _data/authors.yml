@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Micah Braun
+  name:              Bálint Kiss
   # email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -22,7 +22,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
   # twitter:         <username>
-    github:          mcbraunie
+    #github:          mcbraunie
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -52,7 +52,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:          mcbraunie
+    #linkedin:          mcbraunie
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
