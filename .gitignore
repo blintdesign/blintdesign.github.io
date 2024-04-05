@@ -1,0 +1,13 @@
+node_modules
+vendor
+.bundle
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+*.gem
+
+# DS_STORE
+**.DS_Store
+
+#<removed/js>
+#<removed/css>
