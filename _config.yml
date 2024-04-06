@@ -25,8 +25,10 @@ author:
   # email:             
 
 menu:
-  #- title: Projects
-  #  url: /projects/
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
   #  menu:
   #    - title: TPMS Wheelchair App
   #      url: /projects/iOS-TPMS-Wheelchair-Application/
@@ -36,8 +38,6 @@ menu:
   #      url: /projects/guessing-game/
   #    - title: UX/UI Design
   #      url: /projects/design/
-  - title: Home
-    url: /
   # - title:             Contact
   #   url:               /contact/
   # - title:             Portfolio
