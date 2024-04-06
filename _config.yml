@@ -25,8 +25,8 @@ author:
   # email:             
 
 menu:
-  - title: Projects
-    url: /projects/
+  #- title: Projects
+  #  url: /projects/
   #  menu:
   #    - title: TPMS Wheelchair App
   #      url: /projects/iOS-TPMS-Wheelchair-Application/
