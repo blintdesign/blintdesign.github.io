@@ -36,8 +36,8 @@ menu:
   #      url: /projects/guessing-game/
   #    - title: UX/UI Design
   #      url: /projects/design/
-  #- title: About
-  #  url: /resume/
+  - title: Home
+    url: /
   # - title:             Contact
   #   url:               /contact/
   # - title:             Portfolio
