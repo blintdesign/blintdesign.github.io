@@ -11,10 +11,10 @@ left_column:
   - work
   - intern
   - education
-#  - awards
+  - awards
   - certificates
-#  - publications
-#  - references
+  - publications
+  - references
 right_column:
   - languages
   - skills
