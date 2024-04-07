@@ -1,8 +1,7 @@
 ---
-layout: welcome
+layout: page
 title: Start
 sitemap: false
-cover: true
 ---
 
 Lorem ipsum dolor sit amet. 
