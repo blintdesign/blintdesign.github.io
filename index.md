@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: welcome
 title: Start
 sitemap: false
 ---
