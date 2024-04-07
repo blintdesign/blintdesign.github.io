@@ -31,6 +31,8 @@ menu:
     url: /projects/
   - title: Blog
     url: /blog/
+  - title: Resume
+    url: /resume/
   #  menu:
   #    - title: TPMS Wheelchair App
   #      url: /projects/iOS-TPMS-Wheelchair-Application/
