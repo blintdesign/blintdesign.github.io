@@ -2,6 +2,7 @@
 layout: welcome
 title: Start
 sitemap: false
+cover: true
 ---
 
 Lorem ipsum dolor sit amet. 
