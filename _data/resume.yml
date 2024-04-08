@@ -128,48 +128,28 @@ publications:
     summary: ""
 
 skills:
-  - name: "Front End Development"
+  - name: "Frontend / backend"
     level: "Intermediate"
     keywords:
-      - "CSS"
-      - "Git"
       - "HTML"
+      - "CSS"
       - "JavaScript"
-      - "Node"
+      - "PHP"
+      - "MySQL"
 
-  - name: "Programming Languages"
+  - name: "Programozási nyelvek"
     level: "Intermediate"
     keywords:
-        - "Java"
+        - "C"
+        - "C++"
+        - "PHP"
         - "Python"
-
-  - name: "Databases & Visualization"
-    level: "Intermediate"
-    keywords:
-      - "Excel/VBA"
-      - "Python (pandas)"
-      - "SQL"
-
-  - name: "Webscraping"
-    level: "Intermediate"
-    keywords:
-      - "Python"
-      - "JavaScript"
-      - "Selenium"
-      - "BeautifulSoup"
-      - "Puppeteer"
-
-  - name: "App Development"
-    level: "Beginner"
-    keywords:
-#      - "Firebase"
-#      - "Flutter"
-      - "Swift"
-      - "React"
-      - "ReactNative"
+        - "LUA"
 
 languages:
-  - language: "English"
+  - language: "Magyar"
+    fluency: "Native speaker"
+  - language: "Angol"
     fluency: "Native speaker"
 
 interests:
