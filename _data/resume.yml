@@ -1,7 +1,7 @@
 basics:
   name: "Kiss Bálint"
   label: "Szabadúszó webfejlesztő"
-  picture: "assets/img/profileNoBackground.png/240x240"
+  #picture: "assets/img/profileNoBackground.png/240x240"
   # email: ""
   # phone: ""
   # website: ""
