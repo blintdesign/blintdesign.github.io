@@ -26,23 +26,23 @@ basics:
     #   url: ""
 work:
 
-  - company: "Inside Out Inspection Services, LLC"
+  - company: "Blintdesign"
+    position: "Teljes kivitelezés"
+    website: "https://blintdesign.hu"
+    summary: >
+      Lorem ipsum dolor sit amet
+
+  - company: "Lorem ipsum"
     position: "Administrative Assistant"
-    website: "https://insideoutbi.com/"
+    website: "https://blintdesign.hu"
     startDate: "2019-06-01"
     endDate: "2020-06-01"
     summary: >
-      Inside Out Inspection Services - now Inside Out Inspection Training Services - previously
-      offered home inspections in the western Washington regions. The business has since moved
-      to offering training resources to prospective students.
+      Lorem ipsum dolor sit amet
     highlights:
-      - "Engineered a responsive tracking system utilizing Google Sheets, leading to a 10-20% increase 
-      in efficiency for monthly expense reconciliation and streamlined data visualization for enhanced
-       decision-making."
-      - "Collaborated with stakeholders to optimize business-side data collection and retention using 
-      Google Suite tools, enhancing overall operational efficiency."
-      - "Provided technical troubleshooting expertise and facilitated communication between CRM provider, 
-      business owner, and customers, ensuring smooth operations."
+      - "Lorem ipsum dolor sit amet"
+      - "Lorem ipsum dolor sit amet"
+      - "Lorem ipsum dolor sit amet"
 
 intern:
   - organization: "University of Mary Washington"
