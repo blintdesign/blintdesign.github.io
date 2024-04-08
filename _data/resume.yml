@@ -6,12 +6,11 @@ basics:
   # phone: ""
   # website: ""
   summary: >
-    Nevem Kiss Bálint, szabadúszó webdesigner és webfejlesztő. Közel 25 éve foglalkozom weboldalak tervezésével, kivitelezésével, 
-    valamint webes trendekkel és technológiákkal. Vállalom cégeknek, csapatoknak és magánszemélyeknek weboldalak és webapplikációk 
-    tervezését, kivételezését.<br />
-    Amennyiben konkrét grafikai, vagy programozói munkával, projekttel szeretnél megkeresni, vagy szeretnél velem együttműködni, 
-    kérlek vedd fel velem a kapcsolatot valamelyik elérhetőségemen keresztül.<br /><br />
-    Dolgozzunk együtt egy új, sikeres projekten!
+    Nevem Kiss Bálint, szabadúszó webdesigner és webfejlesztő. Közel 30 éve foglalkozom weboldalak tervezésével, kivitelezésével, 
+    valamint webes trendekkel és technológiákkal. Szenvedéllyel és elkötelezettséggel vállalom vállalatok, csapatok és 
+    magánszemélyek weboldalainak tervezését, kivételezését, vagy megújitását.<br />
+    Amennyiben grafikai / programozói projekttel szeretnél megkeresni, vagy szeretnél velem ez ügyben együttműködni, 
+    kérlek keress bizalommal az elérhetőségeim egyikén.
   location:
     # address: ""
     # postalCode: ""
@@ -26,22 +25,6 @@ basics:
     #   username: ""
     #   url: ""
 work:
-
-  - company: "Freelance"
-    position: "Data Technician"
-    website: ""
-    startDate: "2023-9-01"
-    endDate: "2024-3-12"
-    summary: >
-      Provided administrative support for a visual production company contracted to produce content
-      for the American Diabetes Association. 
-    highlights:
-      - "Analyzed, categorized, and processed complex datasets crucial for culinary visual production, 
-      ensuring accuracy and relevance for the American Diabetes Association's initiatives."
-      - "Developed Python scripts to streamline file management, enhancing data organization and 
-      accessibility for the production team."
-      - "Acted in an administrative-troubleshooting role, communicating with creative stakeholders 
-      to ensure seamless data flow for project continuity."
 
   - company: "Inside Out Inspection Services, LLC"
     position: "Administrative Assistant"
@@ -60,36 +43,7 @@ work:
       Google Suite tools, enhancing overall operational efficiency."
       - "Provided technical troubleshooting expertise and facilitated communication between CRM provider, 
       business owner, and customers, ensuring smooth operations."
-  
-  - company: "The University of Virginia"
-    position: "Admissions & Financial Aid Specialist"
-    website: "https://www.arch.virginia.edu/"
-    startDate: "2014-01-01"
-    endDate: "2016-05-01"
-    summary: >
-      The School of Architecture at the University of Virginia contains Undergraduate, Graduate, and Doctorate-level 
-      programs and concentrations in Architecture, Architectural History, Landscape Architecture, and Urban Planning.
-    highlights:
-      - "Created reports enabling better visualization of fiscal allocation and analysis of student demographics, 
-      offering valuable insights for admissions and budgeting decisions."
-      - "Spearheaded data filtering methods, reducing quarterly expense reconciliation time by up to 75%, 
-      resulting in more efficient processes."
-      - "Advised staff and faculty on use of complex datasets and provided support in incorporating new 
-      features, ensuring optimal utilization of reports while maintaining FERPA compliance."
-      - "Acted as a liaison between students, staff, and faculty and the larger University Financial 
-      Aid office, by communicating student needs and translating technical requirements back to students, 
-      staff, and faculty. "
-  
-  - company: "Self-Employed"
-    position: "Private Contractor"
-    website: ""
-    startDate: "2006-09-01"
-    endDate: "2011-11-01"
-    summary: >
-      Operated as a freelancing private contractor while working on Associate's degree out of high school.
-    highlights:
-      - "Performed landscaping: yard maintenance, commercial planting, event preparation, and pest control."
-      - "Managed and completed construction projects: drywall, mold remediation, electrical work, and interior and exterior painting."
+
 intern:
   - organization: "University of Mary Washington"
     position: "Student Research Intern"
