@@ -8,13 +8,13 @@ sidebar: true
 order: 2
 hide_description: true
 left_column:
-#  - work
-  - intern
-  - education
-  - awards
-  - certificates
-  - publications
-  - references
+  - work
+#  - intern
+#  - education
+#  - awards
+#  - certificates
+#  - publications
+#  - references
 right_column:
   - languages
   - skills
