@@ -26,8 +26,7 @@ basics:
     #   username: ""
     #   url: ""
 work:
-
-  - company: "Freelance"
+  - company: "Szabadúszó"
     position: "Data Technician"
     website: ""
     startDate: "2023-9-01"
@@ -215,8 +214,10 @@ skills:
       - "ReactNative"
 
 languages:
-  - language: "English"
-    fluency: "Native speaker"
+  - language: "Magyar"
+    fluency: "Anyanyelv"
+  - language: "Angol"
+    fluency: ""
 
 interests:
   - name: "Design/UI"
@@ -231,8 +232,8 @@ hobbies:
       - "Tool restoration"
       - "Cooking"
       - "Small electronics repair"
-# references:
-#   - name: "Erlich Bachman"
-#     reference: >
-#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#       Company proved that he will be a valuable addition to any company.
+ references:
+   - name: "Erlich Bachman"
+     reference: >
+       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+       Company proved that he will be a valuable addition to any company.
