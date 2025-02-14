@@ -1,2 +1,2 @@
-# Repository for blintdesign.github.io site.
+# Repository for blintdesign.hu webpage.
 
