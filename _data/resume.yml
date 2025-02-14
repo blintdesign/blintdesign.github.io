@@ -1,12 +1,12 @@
 basics:
-  name: "Kiss Bálint"
-  label: "Szabadúszó webfejlesztő"
+  name: "BLINTDESIGN"
+  label: "Bálint Kiss"
   #picture: "assets/img/profileNoBackground.png/240x240"
   # email: ""
   # phone: ""
-  # website: ""
+  website: "http://blintdesign.hu"
   summary: >
-    ## Hungary
+    ## Üdvözöllek
 
     Nevem Kiss Bálint - webdesigner, webfejlesztő és digitális mindenes! :-)
     Közel 30 éve foglalkozom weboldalak tervezésével, fejlesztésével és a legújabb webes technológiák nyomon követésével. 
@@ -16,7 +16,7 @@ basics:
     Legyen szó egy vadonatúj weboldalról, egy meglévő frissítéséről, vagy újragondolásáról, szívesen segítek.
     Ha van egy ötleted, amit megvalósítanál, vagy csak tanácsra van szükséged, keress bizalommal elérhetőségeim egyikén!
 
-    ## English
+    ## Welcome
 
     My name is Bálint Kiss – web designer, web developer, and all-around digital expert! :-)
     For nearly 30 years, I’ve been designing, developing, and keeping up with the latest web technologies.
@@ -41,12 +41,6 @@ basics:
     #   url: ""
 work:
 
-  - company: "Blintdesign"
-    position: "Teljes kivitelezés"
-    website: "https://blintdesign.hu"
-    summary: >
-      Lorem ipsum dolor sit amet
-
   - company: "Lorem ipsum"
     position: "Administrative Assistant"
     website: "https://blintdesign.hu"
@@ -55,8 +49,6 @@ work:
     summary: >
       Lorem ipsum dolor sit amet
     highlights:
-      - "Lorem ipsum dolor sit amet"
-      - "Lorem ipsum dolor sit amet"
       - "Lorem ipsum dolor sit amet"
 
 intern:
