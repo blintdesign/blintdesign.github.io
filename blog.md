@@ -2,6 +2,6 @@
 layout: grid
 title: Blog
 description: >
-  Lorem ipsum dolor sit amet...
+  My blog is currently available only in Hungarian.
 grouped: false
 ---

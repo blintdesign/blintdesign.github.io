@@ -9,7 +9,7 @@
 
 lang:                  en
 
-#title:                 BD
+title:                 blintdesign
 
 # (Run on live server)
 # bundle exec jekyll serve --livereload -o 
@@ -26,7 +26,7 @@ author:
 
 menu:
   - title: Home
-    url: /resume/
+    url: /
   - title: Projects
     url: /projects/
   - title: Blog
@@ -109,7 +109,7 @@ defaults:
       layout:          plain
       sitemap:         false
   - scope:
-      type:             projects
+      type:            projects
     values:
       seo:
         type:          WebPage
