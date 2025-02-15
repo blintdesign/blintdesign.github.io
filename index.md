@@ -4,4 +4,7 @@ title: BLINTDESIGN
 sitemap: false
 ---
 
-Az oldal kialakítása folyamatban. Kis türelmet! :-)
+### The site is under construction. Please be patient! :-)
+
+### Az oldal kialakítása folyamatban. Kis türelmet! :-)
+
