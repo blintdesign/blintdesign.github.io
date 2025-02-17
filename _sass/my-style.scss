@@ -1,6 +1,10 @@
 body .content {
     -webkit-font-smoothing: auto !important;
   }
+
+
+  #resume .note.p-note { display:none; }
+
   
   hy-push-state a {
     text-decoration-style: solid;
