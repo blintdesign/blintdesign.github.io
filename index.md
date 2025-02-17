@@ -8,9 +8,9 @@ sidebar: true
 order: 2
 hide_description: true
 left_column:
-  - summary
+  - description
   - work
-  #  - intern
+  - intern
   #  - education
   #  - awards
   #  - certificates
