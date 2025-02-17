@@ -9,7 +9,8 @@ order: 2
 hide_description: true
 left_column:
   # - work
-  - intern
+  - basics
+  #- intern
   #  - education
   #  - awards
   #  - certificates
