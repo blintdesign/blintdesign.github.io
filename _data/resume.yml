@@ -1,10 +1,10 @@
 basics:
   name: "BLINTDESIGN"
-  label: "Bálint Kiss"
-  #picture: "assets/img/profileNoBackground.png/240x240"
+  label: "Kiss Bálint - egyéni vállalkozó"
+  picture: "assets/img/profileNoBackground.png/240x240"
   # email: ""
   # phone: ""
-  website: "http://blintdesign.hu"
+  # website: "http://blintdesign.hu"
   summary: >
     ### Üdvözöllek
 
@@ -24,7 +24,8 @@ basics:
     you’ve come to the right place!<br />
     I help both businesses and individuals establish an online presence that is not only visually appealing but also highly effective.
     Whether you're looking for a brand-new website, a redesign, or just an upgrade, I’m here to help.<br />
-    If you have an idea you'd like to bring to life or just need some expert advice, feel free to reach out to me!
+    If you have an idea you'd like to bring to life or just need some expert advice, feel free to reach out to me!<br /><br />
+    The rest of the page is only available in Hungarian.
 
 
   location:
