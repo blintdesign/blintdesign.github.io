@@ -8,6 +8,7 @@ sidebar: true
 order: 2
 hide_description: true
 left_column:
+  - summary
   - work
   #  - intern
   #  - education

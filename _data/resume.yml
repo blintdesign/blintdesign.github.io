@@ -1,7 +1,7 @@
 basics:
   name: "blintdesign"
   label: "Kiss Bálint - egyéni vállalkozó"
-  picture: "assets/img/profileNoBackground.png"
+  # picture: "assets/img/profileNoBackground.png"
   # email: ""
   # phone: ""
   # website: "http://blintdesign.hu"
