@@ -9,17 +9,17 @@ order: 2
 hide_description: true
 left_column:
   - work
-  # - intern
-  #  - education
-  #  - awards
-  #  - certificates
-  #  - publications
-  #  - references
+  - intern
+  - education
+  - awards
+  - certificates
+  - publications
+  - references
 right_column:
   - languages
   - skills
-  #- interests
-  #- hobbies
+  - interests
+  - hobbies
 no_language_icons: false
 no_skill_icons: false
 buttons:
