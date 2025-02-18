@@ -8,18 +8,18 @@ sidebar: true
 order: 2
 hide_description: true
 left_column:
-  - work
+  #- work
   - intern
-  - education
-  - awards
-  - certificates
-  - publications
-  - references
+  #  - education
+  #  - awards
+  #  - certificates
+  #  - publications
+  #  - references
 right_column:
   - languages
   - skills
-  - interests
-  - hobbies
+  #- interests
+  #- hobbies
 no_language_icons: false
 no_skill_icons: false
 buttons:
